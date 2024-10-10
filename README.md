@@ -12,6 +12,4 @@ Model architecture and training scripts.
 Datasets used for behavior detection.
 Instructions for fine-tuning and using the model.
 
-## Models
-
-- **[ALL MODELS]([https://drive.google.com/drive/folders/1ixy8FoU3dYrecNTLecVASvsG4_4NhUW5?usp=sharing](https://colab.research.google.com/drive/1ocEo8DzQQ0IQv0GgZTxEfjso17Sgyt5K?usp=sharing))**
+## Models - **([https://drive.google.com/drive/folders/1ixy8FoU3dYrecNTLecVASvsG4_4NhUW5?usp=sharing](https://colab.research.google.com/drive/1ocEo8DzQQ0IQv0GgZTxEfjso17Sgyt5K?usp=sharing))**
